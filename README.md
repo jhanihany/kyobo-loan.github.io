@@ -1,5 +1,5 @@
 # 교보문고 고객 대상 신용대출 서비스
-https://jhanihany.github.io/kyobo_loan.github.io/
+https://jhanihany.github.io/kyobo-loan.github.io/
 
 해당 링크에 접속하시면, 프로젝트의 전문을 확인하실 수 있습니다.
 > 
